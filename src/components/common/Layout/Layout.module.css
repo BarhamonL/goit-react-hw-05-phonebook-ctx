@@ -1,0 +1,15 @@
+.container {
+  max-width: 30rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.light {
+  color: #111111;
+  background-color: #fff;
+}
+
+.dark {
+  color: #fff;
+  background-color: #111111;
+}
